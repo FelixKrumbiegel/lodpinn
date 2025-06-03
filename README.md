@@ -21,3 +21,6 @@ In a separate terminal, go to the example directory (/examples/myExample) and us
 tensorboard --logdir results/myCase
 ```
 then click on the link provided to see the graphs
+
+## Information
+This code is a proof of concept that conducts the examples in the paper "Neural Numerical Homogenization Based on Deep Ritz Corrections" by Mehdi Elasmi, Felix Krumbiegel, and Roland Maier. Note that this code is not optimized in any way.  
